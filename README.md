@@ -6,4 +6,5 @@ Place the P5_pad.js file in the script tag after the p5.js file.</br></br>
 <code><script src="P5_pad.js"></script></code></br></br>
 The use of P5_pad is very simple: in the skecth.js file you have to instantiate a Pad object and specify its position in the sketch and then use the four methods as in the following example:
 
-![code](https://user-images.githubusercontent.com/111884001/196049318-5ae224f4-f94e-4477-a145-80726fcb41f8.png)
+![code](https://user-images.githubusercontent.com/111884001/196049669-33f27506-8ba3-42bf-abbf-e74c21b76549.png)
+
