@@ -1,9 +1,12 @@
 ![img_pad](https://user-images.githubusercontent.com/111884001/196042111-e8ba5e25-8b45-493c-9ed4-bf2574bc3d4b.png)
 # P5_pad
 A simple pad for P5 projects. This pad can be useful in all cases where you have to choose directions of movement as in some games where you can not use the computer keyboard.
-The use is very simple: you have to instantiate a Pad object and specify its position in the sketch and then use the four methods as in the following example:
+Place the P5_pad.js file in the script tag after the p5.js file.
+<script src="p5.min.js"></script><br>
+<script src="P5_pad.js"></script>
+The use of P5_pad is very simple: in the skecth.js file you have to instantiate a Pad object and specify its position in the sketch and then use the four methods as in the following example:
+<code>
 
-// === CODE =====
 let pad;
 let msg = "Info";
 let stepX = 0;
@@ -40,3 +43,4 @@ function draw() {
     fill("red");
     square(100 + stepX, 100 + stepY, 32);
 }
+</code>
