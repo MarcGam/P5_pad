@@ -1,3 +1,4 @@
+![img_pad](https://user-images.githubusercontent.com/111884001/196042111-e8ba5e25-8b45-493c-9ed4-bf2574bc3d4b.png)
 # P5_pad
 A simple pad for P5 projects. This pad can be useful in all cases where you have to choose directions of movement as in some games where you can not use the computer keyboard.
 The use is very simple: you have to instantiate a Pad object and specify its position in the sketch and then use the four methods as in the following example:
