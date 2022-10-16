@@ -8,3 +8,5 @@ The use of P5_pad is very simple: in the skecth.js file you have to instantiate 
 
 ![code](https://user-images.githubusercontent.com/111884001/196049669-33f27506-8ba3-42bf-abbf-e74c21b76549.png)
 
+Click on the pad's arrows to perform the associated function.</br>
+In this case the square moves in the four directions.
