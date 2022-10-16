@@ -8,6 +8,7 @@ let pad;
 let msg = "Info";
 let stepX = 0;
 let stepY = 0;
+
 function setup() {
     createCanvas(400, 400);
     pad = new Pad(355, 330); // Pad Instance
